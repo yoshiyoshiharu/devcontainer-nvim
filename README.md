@@ -1,2 +1,2 @@
 # devcontainer-nvim
-オレオレdevcontainer.json for neovim
+リポジトリ内に.devcontainer/.devcontainerがある(VSCodeのユーザーが基本的に使う)ことを前提に、Neovimでもdevcontainerを使えるようにする
